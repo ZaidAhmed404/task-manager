@@ -1,16 +1,20 @@
-# task_manager
+# Task Manager App
 
-A new Flutter project.
+A Flutter application for managing tasks efficiently. This app allows users to add, edit, delete, and categorize tasks, with a clean and user-friendly interface.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Add new tasks with titles and descriptions
+- Edit existing tasks
+- Delete tasks
+- Categorize tasks with tags
+- Mark tasks as completed
+- View tasks in a list format
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![1](https://github.com/user-attachments/assets/07f0022a-14e6-4670-912a-b776ef544ee8)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![4](https://github.com/user-attachments/assets/57a59e06-95d6-4c4d-bf31-bdfd8983900d)
+
